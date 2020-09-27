@@ -44,7 +44,7 @@ előadások meghirdetését.
 - helyek (előadás, terem, sor, oszlop, státusz <szabad, foglalt, eladott>, foglaló
 neve, foglaló telefonszáma).
 - felhasználók(név, cím, születési hely, telefonszám, email cím)
-- dolgozó(név, cím, születési hely, telefonszám, email cím)
+- dolgozók(név, cím, születési hely, telefonszám, email cím)
 
 #### Mintadokumentáció: 
 [Első példa](https://github.com/KisGabo/gallery-elteik/wiki)
