@@ -3,8 +3,12 @@
 
 ## Projektötlet
 
-Mozi felület, melyen lehetőség van az aktuális moziműsort
-megtekinteni illetve jegy vásárlásra és foglalásra.
+Ez a program egy mozi által üzemeltetett felület.
+Amelyen lehetősége van a vendégeknek a vetített filmek leírását és az aktuális moziműsort 
+megtekinteni.
+Illetve bejelentkezés után jegy vásárlásra, foglalásra és esetleges visszamondására is.
+A mozi dolgozói ezen a felületen keresztül végezhetik a jegyek kiadását és az aktuális
+előadások meghirdetését.
 
 ## 1) feladat funkcionális követelményeit
 - Regisztráció
@@ -22,7 +26,11 @@ megtekinteni illetve jegy vásárlásra és foglalásra.
 - Gyors működés: Adatbázisban gyorsan lefutattot keresések alapján gyors visszajelzés
 
 ## 3) szakterületi fogalomjegyzék (azon fogalmak definiálása, ami köré az alkalmazás épül)
-
+- moziműsor: A mozi által vetített filmek idő és termembeosztása napokra bontva.
+- jegy vásárlás: A moziműsorból kiválasztott filmre jegy online megvásárlása.
+- jegy foglalás: A moziműsorból kiválasztott filmre jegy online foglalása, amit vetítés előtt 
+  helyben kell kifizetni.
+  
 ## 4) szerepkörök:
 
 - Vendég: Nem regisztrált felhasználó, böngészheti az oldalt.
