@@ -7,20 +7,28 @@ Mozi felület, melyen lehetőség van az aktuális moziműsort
 megtekinteni illetve jegy vásárlásra és foglalásra.
 
 ## 1) feladat funkcionális követelményeit
+- Regisztráció
+- Bejelentkezés
+- Dolgozóknak megfelelő felület jegykiadáshoz
+- Dolgozóknak előadások megfelelő meghirdetése
+- Felhasználó jegyfoglalás
+- Felhasználó jegyvásárlás
+- Felhasználó jegylemondás
+- Megfelelő kategóriákra való szűrés
 
 ## 2) feladat nem funkcionális követelményei
 - Felhasználóbarát: egyszerű, letisztult felület jól olvasható és elrendezésű, könnyen böngészhető megvalósítása a felületnek
 - Biztonság: jelszavas azonosítás, jelszavak biztonságos tárolása és védelme (titkosítása)
 - Gyors működés: Adatbázisban gyorsan lefutattot keresések alapján gyors visszajelzés
 
-##3) szakterületi fogalomjegyzék (azon fogalmak definiálása, ami köré az alkalmazás épül)
+## 3) szakterületi fogalomjegyzék (azon fogalmak definiálása, ami köré az alkalmazás épül)
 
 ## 4) szerepkörök:
 
 - Vendég: Nem regisztrált felhasználó, böngészheti az oldalt.
-- Tag: Regisztrált és bejelentkezett felhasználó, akinek elérhető a jegyvásárlás és foglalás is.
-- Dolgozó: Jegyek kiadása és előadások meghirdetése.
-- Adminisztrátor: Minden joggal rendelkezik.
+- Felhasználó: Regisztrált és bejelentkezett felhasználó, akinek elérhető a jegyvásárlás, foglalás  és visszamondás is.
+- Dolgozó: Jegyek kiadása és előadások meghirdetése, szerkesztése.
+- Adminisztrátor: Dolgozók beregisztrálása.
 
 ## Mintadokumentáció: 
 [Első példa](https://github.com/KisGabo/gallery-elteik/wiki)
