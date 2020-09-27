@@ -2,12 +2,25 @@
 
 
 ## Projektötlet
-Első lépésként egy rövid feladatleírást kell megadni a projekt Github főoldalán a README.md állományban. A feladatleírásnak a következő elemeket kell tartalmaznia rövid leírás vagy felsorolás formájában:
 
-1) feladat funkcionális követelményeit
-2) feladat nem funkcionális követelményei
-3) szakterületi fogalomjegyzék (azon fogalmak definiálása, ami köré az alkalmazás épül)
-4) szerepkörök
+Mozi felület, melyen lehetőség van az aktuális moziműsort
+megtekinteni illetve jegy vásárlásra és foglalásra.
+
+## 1) feladat funkcionális követelményeit
+
+## 2) feladat nem funkcionális követelményei
+- Felhasználóbarát: egyszerű, letisztult felület jól olvasható és elrendezésű, könnyen böngészhető megvalósítása a felületnek
+- Biztonság: jelszavas azonosítás, jelszavak biztonságos tárolása és védelme (titkosítása)
+- Gyors működés: Adatbázisban gyorsan lefutattot keresések alapján gyors visszajelzés
+
+##3) szakterületi fogalomjegyzék (azon fogalmak definiálása, ami köré az alkalmazás épül)
+
+## 4) szerepkörök:
+
+- Vendég: Nem regisztrált felhasználó, böngészheti az oldalt.
+- Tag: Regisztrált és bejelentkezett felhasználó, akinek elérhető a jegyvásárlás és foglalás is.
+- Dolgozó: Jegyek kiadása és előadások meghirdetése.
+- Adminisztrátor: Minden joggal rendelkezik.
 
 ## Mintadokumentáció: 
 [Első példa](https://github.com/KisGabo/gallery-elteik/wiki)
