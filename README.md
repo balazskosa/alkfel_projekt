@@ -14,7 +14,7 @@ előadások meghirdetését.
 - Regisztráció
 - Bejelentkezés
 - Dolgozóknak megfelelő felület jegykiadáshoz
-- Dolgozóknak előadások megfelelő meghirdetése
+- Dolgozóknak az előadások meghirdetése, szerkesztése
 - Felhasználó jegyfoglalás
 - Felhasználó jegyvásárlás
 - Felhasználó jegylemondás
@@ -36,7 +36,6 @@ előadások meghirdetését.
 - Vendég: Nem regisztrált felhasználó, böngészheti az oldalt.
 - Felhasználó: Regisztrált és bejelentkezett felhasználó, akinek elérhető a jegyvásárlás, foglalás  és visszamondás is.
 - Dolgozó: Jegyek kiadása és előadások meghirdetése, szerkesztése.
-- Adminisztrátor: Dolgozók beregisztrálása.
 
 ## Az adatbázis az alábbi adatokat tárolja:
 - filmek (cím, rendező, szinopszis, hossz, plakát, bevitel dátuma);
@@ -44,6 +43,8 @@ előadások meghirdetését.
 - előadások (film, kezdő időpont, terem);
 - helyek (előadás, terem, sor, oszlop, státusz <szabad, foglalt, eladott>, foglaló
 neve, foglaló telefonszáma).
+- felhasználók(név, cím, születési hely, telefonszám, email cím)
+- dolgozó(név, cím, születési hely, telefonszám, email cím)
 
 #### Mintadokumentáció: 
 [Első példa](https://github.com/KisGabo/gallery-elteik/wiki)
