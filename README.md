@@ -43,8 +43,8 @@ előadások meghirdetését.
 - előadások (film, kezdő időpont, terem);
 - helyek (előadás, terem, sor, oszlop, státusz <szabad, foglalt, eladott>, foglaló
 neve, foglaló telefonszáma).
-- felhasználók(név, cím, születési hely, telefonszám, email cím)
-- dolgozók(név, cím, születési hely, telefonszám, email cím)
+- felhasználók(név, cím, születési hely, telefonszám, email cím, jelszó)
+- dolgozók(név, cím, születési hely, telefonszám, email cím, jelszó)
 
 #### Mintadokumentáció: 
 [Első példa](https://github.com/KisGabo/gallery-elteik/wiki)
