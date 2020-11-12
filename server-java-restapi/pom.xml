@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>hu.elte</groupId>
-    <artifactId>issuetrackerrest</artifactId>
+    <artifactId>movietrackerrest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>issuetrackerrest</name>
-    <description>Issue Tracker Application</description>
+    <name>movietrackerrest</name>
+    <description>Movie Tracker Application</description>
 
     <properties>
         <java.version>1.8</java.version>
